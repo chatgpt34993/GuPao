@@ -1,6 +1,6 @@
 package gupaoedu.vip.pattern.factory.simplefactory;
 
-import javax.swing.*;
+import gupaoedu.vip.pattern.factory.ICourse;
 
 public class SimpleFactoryTest {
     public static void main(String[] args) {

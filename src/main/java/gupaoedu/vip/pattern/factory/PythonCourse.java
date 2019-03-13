@@ -1,4 +1,6 @@
-package gupaoedu.vip.pattern.factory.simplefactory;
+package gupaoedu.vip.pattern.factory;
+
+import gupaoedu.vip.pattern.factory.ICourse;
 
 public class PythonCourse implements ICourse {
 

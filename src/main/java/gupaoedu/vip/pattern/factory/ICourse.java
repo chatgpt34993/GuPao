@@ -1,4 +1,4 @@
-package gupaoedu.vip.pattern.factory.simplefactory;
+package gupaoedu.vip.pattern.factory;
 
 public interface ICourse {
     public void read();
