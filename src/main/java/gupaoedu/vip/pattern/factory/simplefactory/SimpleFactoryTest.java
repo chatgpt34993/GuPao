@@ -2,6 +2,9 @@ package gupaoedu.vip.pattern.factory.simplefactory;
 
 import gupaoedu.vip.pattern.factory.ICourse;
 
+/**
+ * 简单工厂
+ */
 public class SimpleFactoryTest {
     public static void main(String[] args) {
        /* ICourse course=new JavaCourse();
